@@ -5,11 +5,8 @@
 
 **Week-1 progress :**
  * Successfully created Login/Signup page for users to use our app, all the user details are stored in parse.
- 
  * How is work distributed can be checked [here.](backlog-week1.md)
- 
  * A class diagram representation of what our app does so far:
- 
  * ![image](https://github.com/Adityan135/Health-Tracker-App/blob/master/week1.png)
 
 **We will be Updating our code here.**
