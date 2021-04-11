@@ -5,7 +5,8 @@
 
 **Week-1 progress :**
  * Successfully created Login/Signup page for users to use our app, all the user details are stored in parse.
- * How are work distributed can be checked [here.](backlog-week1.md)
+ 
+ * How is work distributed can be checked [here.](backlog-week1.md)
  
  * A class diagram representation of what our app does so far:
  
