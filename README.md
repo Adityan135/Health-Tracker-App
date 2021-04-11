@@ -3,7 +3,7 @@
 
 **We are Team Barron's and we are working on a project Health tracker app.We are building an Android App for this project.**
 
-**Week-1 progress :
+**Week-1 progress :**
  * Successfully created Login/Signup page for users to use our app, all the user details are stored in parse.
  * How are work distributed can be checked [here.](backlog-week1.md)
  
