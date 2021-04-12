@@ -16,7 +16,7 @@ public class StarterApplication extends Application {
                 .server("http://3.133.131.224/parse/")
                 .build()
         );
-        ParseACL defaultACL = new ParseACL();
+        ParseACL defaultACL = new ParseACL();   //Creates a new Parse
         defaultACL.setPublicReadAccess(true);
         defaultACL.setPublicWriteAccess(true);
         ParseACL.setDefaultACL(defaultACL, true);
