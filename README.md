@@ -1,7 +1,7 @@
 # Health Tracker App
 ![image](https://drive.google.com/u/0/uc?id=14AnhBQGRyIEa0gTNFkAA9l6qaF-FzmEf&export=download)
 
-**We are Team Barron's and we are working on a project called  "Health tracker app".We are building an Android App for this project.**
+**WeTeam Barron's and we are working on a project called  "Health tracker app".We are building an Android App for this project.**
 
 **Week-1 progress :**
  * Successfully created Login/Signup page for users to use our app, all the user details are stored in parse.
